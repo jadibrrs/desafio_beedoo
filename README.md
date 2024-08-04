@@ -32,6 +32,6 @@ Posteriormente, transformei cada US em cenários de teste, e fui criando os caso
 
 [Acesse aqui](https://docs.google.com/spreadsheets/d/1d9eZ7tFTLzmjC4njwXuh0usJ-cKBUanejOAcnsRTtbk/edit?usp=sharing) a planilha contendo os Test Scenarios (TS) e Test Cases (TC).
 
-[Acesse aqui](https://veil-shoemaker-fe0.notion.site/DESAFIO-BEEDOO-QA-1f2a03b2f37c41cdbd32eee36283e6cf?pvs=4) o relatório de bugs. Escolhi utilizar uma página no Notion contendo um quadro Kanban, pois é uma ferramenta visual que pode ser utilizada para gerenciar bugs de forma simples e intuitiva, além de ser facilmente acessada por qualquer pessoa que obtenha o link para a página publicada.
+[Acesse aqui](https://docs.google.com/spreadsheets/d/1P6_Hq8a6ELBsKZgLLDOYpD_bpEMHf3oa5_37FTJLYXg/edit?usp=sharing) o relatório de bugs. Escolhi utilizar uma página no Notion contendo um quadro Kanban, pois é uma ferramenta visual que pode ser utilizada para gerenciar bugs de forma simples e intuitiva, além de ser facilmente acessada por qualquer pessoa que obtenha o link para a página publicada.
 
 [Acesse aqui](https://drive.google.com/drive/folders/1Oa5jNBzCQys47YIOviAWPol6exgLj9ma?usp=sharing) a pasta contendo as evidências dos casos de teste e dos bugs identificados.
