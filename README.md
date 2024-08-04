@@ -31,3 +31,7 @@ Posteriormente, transformei cada US em cenários de teste, e fui criando os caso
 ## Cenários e Casos de Ceste
 
 [Acesse aqui](https://docs.google.com/spreadsheets/d/1d9eZ7tFTLzmjC4njwXuh0usJ-cKBUanejOAcnsRTtbk/edit?usp=sharing) a planilha contendo os Test Scenarios (TS) e Test Cases (TC).
+
+[Acesse aqui](COLOCARLINK) o relatório de bugs. A metodologia utilizada para a elaboração deste relatório é a COLOCARAMETODOLOGIA, pois/devido a.......................
+
+[Acesse aqui](https://drive.google.com/drive/folders/1Oa5jNBzCQys47YIOviAWPol6exgLj9ma?usp=sharing) a pasta contendo as evidências dos casos de teste.
